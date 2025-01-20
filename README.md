@@ -11,6 +11,8 @@ Este projeto foi criado como parte da etapa do processo seletivo do programa ONE
 - CSS
 - JavaScript 
 - Visual Studio Code
+- Git
+- Github / pages
 
  ## Funcionalidades 🔘
  - Adiciona amigos ✅
@@ -29,6 +31,11 @@ Este projeto foi criado como parte da etapa do processo seletivo do programa ONE
  5. Depois de ter adicionado todos seus amigos, você clica no botão **Sortear amigo** (*O botão na cor laranja*).
  6. Assim que você clicar no botão **sortear amigo**, ira aparecer na tela na cor verde "*Seu amigo secreto é:* " (Exemplo: **Seu amigo secreto é: Pedro**).
  7. Para iniciar um novo sorteio, basta atualizar a aba do navegador.
+
+[link do jogo](https://antoniotiburtino.github.io/amigo-secreto/) 🎮🕹️
 ## Desenvolvedor 🧑🏻‍💻
 | [<img loading="antonio" src="https://avatars.githubusercontent.com/u/156551571?v=4" width=115><br><sub>Antonio Tiburtino</sub>](https://github.com/antoniotiburtino) |
 | :---:
+
+# Jogo hospedado pelo GitHub Pages 
+[link do jogo](https://antoniotiburtino.github.io/amigo-secreto/)
