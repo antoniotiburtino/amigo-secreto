@@ -1,12 +1,11 @@
 # JOGO DO AMIGO SECRETO 🎮🕹️🎭
 
----
+<img src="assets/amigo-secreto.png" width=700px>
+
 
 ## Descrição do projeto 💻
-
 Este projeto foi criado como parte da etapa do processo seletivo do programa ONE (Oracle Next Education), em colaboração com a Alura. O objetivo da aplicação é tornar o sorteio de amigo secreto mais simples e eficiente, proporcionando uma experiência divertida e organizada para grupos de amigos, familiares ou colegas de trabalho.
 
----
 
 ## Tecnologias usadas 🚀
 - HTML
@@ -14,13 +13,11 @@ Este projeto foi criado como parte da etapa do processo seletivo do programa ONE
 - JavaScript 
 - Visual Studio Code
 
---- 
  ## Funcionalidades 🔘
  - Adiciona amigos ✅
  - Sorteio de amigos secreto ✅
  - Para fazer um novo jogo, basta atualizar a janela do navegador ✅
 
- ---
 
  ## Imagem do jogo 🎮📷
  ![imagem do jogo](assets/imagem-do-jogo.png)
@@ -33,7 +30,6 @@ Este projeto foi criado como parte da etapa do processo seletivo do programa ONE
  5. Depois de ter adicionado todos seus amigos, você clica no botão **Sortear amigo** (*O botão na cor laranja*).
  6. Assim que você clicar no botão **sortear amigo**, ira aparecer na tela na cor verde "*Seu amigo secreto é:* " (Exemplo: **Seu amigo secreto é: Pedro**).
  7. Para iniciar um novo sorteio, basta atualizar a aba do navegador.
----
 ## Desenvolvedor 🧑🏻‍💻
 | [<img loading="antonio" src="https://avatars.githubusercontent.com/u/156551571?v=4" width=115><br><sub>Antonio Tiburtino</sub>](https://github.com/antoniotiburtino) |
 | :---:
