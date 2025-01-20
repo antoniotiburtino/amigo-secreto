@@ -34,13 +34,10 @@ Este projeto foi criado como parte da etapa do processo seletivo do programa ONE
 
 [link do jogo](https://antoniotiburtino.github.io/amigo-secreto/) 🎮🕹️
 
-## Requisitos
+## Pré-requisitos para rodar a aplicação ⏯️
 - Node 
 - Visual Studio Code
-
-## Como rodar a aplicação? ⏯️
-No terminal, clone o projeto com o seguinte codigo:
-https://github.com/antoniotiburtino/amigo-secreto.git
+- Clonar o repositório 
 
 ## Desenvolvedor 🧑🏻‍💻
 | [<img loading="antonio" src="https://avatars.githubusercontent.com/u/156551571?v=4" width=115><br><sub>Antonio Tiburtino</sub>](https://github.com/antoniotiburtino) |
