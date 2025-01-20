@@ -33,6 +33,15 @@ Este projeto foi criado como parte da etapa do processo seletivo do programa ONE
  7. Para iniciar um novo sorteio, basta atualizar a aba do navegador.
 
 [link do jogo](https://antoniotiburtino.github.io/amigo-secreto/) 🎮🕹️
+
+## Requisitos
+- Node 
+- Visual Studio Code
+
+## Como rodar a aplicação? ⏯️
+No terminal, clone o projeto com o seguinte codigo:
+https://github.com/antoniotiburtino/amigo-secreto.git
+
 ## Desenvolvedor 🧑🏻‍💻
 | [<img loading="antonio" src="https://avatars.githubusercontent.com/u/156551571?v=4" width=115><br><sub>Antonio Tiburtino</sub>](https://github.com/antoniotiburtino) |
 | :---:
