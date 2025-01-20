@@ -1,7 +1,5 @@
 # JOGO DO AMIGO SECRETO 🎮🕹️🎭
 
-<img src="assets/amigo-secreto.png" width=700px>
-
 
 ## Descrição do projeto 💻
 Este projeto foi criado como parte da etapa do processo seletivo do programa ONE (Oracle Next Education), em colaboração com a Alura. O objetivo da aplicação é tornar o sorteio de amigo secreto mais simples e eficiente, proporcionando uma experiência divertida e organizada para grupos de amigos, familiares ou colegas de trabalho.
