@@ -1,5 +1,6 @@
 # JOGO DO AMIGO SECRETO 🎮🕹️🎭
 
+<img loading="amigos" src="https://img.freepik.com/fotos-gratis/pessoas-a-celebrar-a-vespera-de-ano-novo_23-2151070798.jpg?t=st=1737382755~exp=1737386355~hmac=e34d627fe39f5fdca88157c76c2792485402acb95d57af38fda51d0d1415e732&w=996" width=600>
 
 ## Descrição do projeto 💻
 Este projeto foi criado como parte da etapa do processo seletivo do programa ONE (Oracle Next Education), em colaboração com a Alura. O objetivo da aplicação é tornar o sorteio de amigo secreto mais simples e eficiente, proporcionando uma experiência divertida e organizada para grupos de amigos, familiares ou colegas de trabalho.
